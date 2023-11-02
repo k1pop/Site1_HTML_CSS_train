@@ -10,3 +10,6 @@ SIte web Responsive d'entrainement En HTML / CSS et un peu javaScript
 ![Capture d’écran 2023-11-02 à 09 21 30](https://github.com/k1pop/Site1_HTML_CSS_train/assets/58728776/2285926b-1992-415d-97c5-cc2664ee2a81)
 ![Capture d’écran 2023-11-02 à 09 21 46](https://github.com/k1pop/Site1_HTML_CSS_train/assets/58728776/0a0ece77-405e-41e2-b0c3-6d39a5147ff4)
 ![Capture d’écran 2023-11-02 à 09 21 57](https://github.com/k1pop/Site1_HTML_CSS_train/assets/58728776/8606fade-9c04-40b9-9fbb-c17feb50bc91)
+
+
+Credit: site web fait à l'aide de https://www.youtube.com/watch?v=4eT9X64n8XU&ab_channel=LiveCode
